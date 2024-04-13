@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chest",
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "type": "minecraft:chest",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "name": "sample:gem"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
