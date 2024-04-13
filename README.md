@@ -1,0 +1,2 @@
+# item_modifier-set_contents
+item_modifierの1項目であるset_contentsに関するサンプルになります。
