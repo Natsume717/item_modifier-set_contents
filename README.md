@@ -1,8 +1,7 @@
 # item_modifier-set_contents
 item_modifierの1項目であるset_contentsに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_contentsで中身を挿入する【item_modifier】](https://natsumake.com/item_modifier-set_contents/)』を参考にしてください。
 
 <h3>概要</h3>
 チェストなどアイテムを格納できるアイテムに対して、中身を格納させた状態にできます。
